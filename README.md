@@ -1,23 +1,33 @@
- Jornada Android Developer - Kotlin
+ # Jornada Android Developer - Kotlin
 
- ![DIO Logo](src/main/resources/icons/Kotlin1.webp)![DIO Logo](src/main/resources/icons/Kotlin2.webp)![DIO Logo](src/main/resources/icons/func.webp)
+ ![DIO Logo](src/main/resources/icons/Kotlin1.webp)  ![DIO Logo](src/main/resources/icons/Kotlin2.webp) ![DIO Logo](src/main/resources/icons/func.webp)
 
 Bem-vindo ao meu repositório de estudos! Aqui concentro os códigos, anotações e soluções dos desafios propostos no bootcamp de Desenvolvimento Android com Kotlin. O objetivo é documentar minha evolução, desde a lógica básica até a arquitetura avançada de apps.
 
-🚀 Desafios e Projetos
+## Desafios e Projetos:
+
+   ![DIO Logo](src/main/resources/icons/Desafio.webp)
 
 Abaixo listo os desafios práticos do curso, organizados por nível de complexidade e módulo.
 
-🟢 Nível Básico: Fundamentos e Lógica
+------------------------------------------------------------------------------------------
+
+### Nível Básico: Fundamentos e Lógica.
+
+![DIO Logo](src/main/resources/icons/Android1.webp)
 
 Foco em sintaxe Kotlin, Orientação a Objetos e estruturas de controle.
 
 | Ícone | Desafio | Minha Solução e Tecnologias | Link |
 |-------|---------|-----------------------------|------|
 | ![DIO Logo](src/main/resources/icons/Abstração.webp) | Abstraindo Formações da DIO | POO em Kotlin<br>Modelei as classes Conteudo, Curso e Mentoria para representar a plataforma, aplicando herança e polimorfismo.<br><br>🛠️ Techs: Kotlin, POO | 🔗 [Código](https://github.com/CelioPedro/kotlin-lab1/tree/main/src/main/kotlin) |
-| ![Code Icon](src/main/resources/icons/Idioma.webp) | Controle de Fluxo e Coleções | Desafio de Código<br>Scripts focados em manipulação de Lists, Maps e estruturas condicionais para resolver problemas lógicos. | 🔗  |
+| ![Code Icon](src/main/resources/icons/func.webp) | Controle de Fluxo e Coleções | Desafio de Código<br>Scripts focados em manipulação de Lists, Maps e estruturas condicionais para resolver problemas lógicos. | 🔗  |
 
-🟡 Nível Intermediário: Interfaces Nativas
+------------------------------------------------------------------------------------------
+
+### Nível Intermediário: Interfaces Nativas.
+
+![DIO Logo](src/main/resources/icons/Android2.webp)
 
 Criação de Apps Android tradicionais (XML/View System) e recursos essenciais.
 
@@ -26,13 +36,19 @@ Criação de Apps Android tradicionais (XML/View System) e recursos essenciais.
 | ![Translate Icon](src/main/resources/icons/Idiomas.webp) | App com Suporte a Vários Idiomas | Internacionalização<br>Implementação de recursos de String resources e configuração de Locales no Android Studio.<br><br>🛠️ Techs: Android XML, Resources | 🔗 Código |
 | ![Translate Icon](src/main/resources/icons/github.webp) | App para Compartilhamento de Projetos | Portfólio de projetos<br>Criação de um App Android para compartilhar seus projetos.<br><br>🛠️ Techs: Android XML, Resources | 🔗 Código |
 
-🔴 Nível Avançado: Jetpack Compose & Arquitetura
+------------------------------------------------------------------------------------------
+ 
+### Nível Avançado: Jetpack Compose & Arquitetura.
+
+![DIO Logo](src/main/resources/icons/Android3.webp)
 
 Desenvolvimento moderno com interfaces declarativas e injeção de dependência.
 
 | Ícone | Desafio | Minha Solução e Tecnologias | Link |
 |-------|---------|-----------------------------|------|
-| ![Soccer Icon](./assets/soccer-icon.png) | App para Acompanhar a Copa | Projeto Capstone<br>App completo consumindo API de jogos. Utilizei WorkManager para tarefas em background e Hilt para injeção de dependências.<br><br>🛠️ Techs: Jetpack Compose, Retrofit, Hilt | 🔗 Código |
+| ![DIO Logo](src/main/resources/icons/CUp.webp) | App para Acompanhar a Copa | Projeto Capstone<br>App completo consumindo API de jogos. Utilizei WorkManager para tarefas em background e Hilt para injeção de dependências.<br><br>🛠️ Techs: Jetpack Compose, Retrofit, Hilt | 🔗 Código |
+
+------------------------------------------------------------------------------------------
 
 🛠️ Tecnologias e Ferramentas
 
