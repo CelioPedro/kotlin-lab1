@@ -25,7 +25,7 @@ Foco em sintaxe Kotlin, Orientação a Objetos e estruturas de controle.
 | Ícone | Desafio | Minha Solução e Tecnologias | Link |
 |-------|---------|-----------------------------|------|
 | ![DIO Logo](src/main/resources/icons/Abstração.webp) | Abstraindo Formações da DIO | POO em Kotlin<br>Modelei as classes Conteudo, Curso e Mentoria para representar a plataforma, aplicando herança e polimorfismo.<br><br> *Techs: Kotlin, POO* | 🔗 [Código](https://github.com/CelioPedro/kotlin-lab1/tree/main/src/main/kotlin) |
-| ![Code Icon](src/main/resources/icons/func.webp) | Controle de Fluxo e Coleções | Desafio de Código<br>Scripts focados em manipulação de Lists, Maps e estruturas condicionais para resolver problemas lógicos. | 🔗  |
+| ![Code Icon](src/main/resources/icons/func.webp) | Controle de Fluxo e Coleções | Desafio de Código<br>Scripts focados em manipulação de Lists, Maps e estruturas condicionais para resolver problemas lógicos. | 🔗 [Código](https://github.com/CelioPedro/kotlin-lab/tree/main/src/main/kotlin/desafioInternationalApp/app/src)  |
 
 ------------------------------------------------------------------------------------------
 
